@@ -1,0 +1,23 @@
+{
+  "projects": [
+    {
+      "id": "d55a7ddd-871c-4866-baab-1d483aaef478",
+      "name": "Music App",
+      "description": "Music",
+      "createdAt": "2025-08-30T06:52:44.453Z"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "0ee3949b-7235-4a86-a1f0-ddaaa43f5643",
+      "projectId": "d55a7ddd-871c-4866-baab-1d483aaef478",
+      "title": "Front-end",
+      "description": "Music App",
+      "status": "backlog",
+      "assignee": "Abhi",
+      "dueDate": "2025-08-31",
+      "priority": "high",
+      "createdAt": "2025-08-30T06:54:27.984Z"
+    }
+  ]
+}
